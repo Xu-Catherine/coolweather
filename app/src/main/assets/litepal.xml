@@ -4,6 +4,6 @@
     <list>
         <mapping class = "com.ccb.fintech.coolweather.db.Province"/>
         <mapping class = "com.ccb.fintech.coolweather.db.City"/>
-        <mapping class = "com.ccb.fintech.coolweather.db.Country"/>
+        <mapping class = "com.ccb.fintech.coolweather.db.County"/>
     </list>
 </litepal>
